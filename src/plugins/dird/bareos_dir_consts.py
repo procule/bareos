@@ -40,7 +40,10 @@ brDirVariable = dict(
     bDirVarSDJobFiles = 20,
     bDirVarSDErrors = 21,
     bDirVarFDJobStatus = 22,
-    bDirVarSDJobStatus = 23
+    bDirVarSDJobStatus = 23,
+    bDirVarLastRate = 25,      
+    bDirVarJobBytes = 26,            
+    bDirVarReadBytes = 27
 )
 
 bwDirVariable = dict(
